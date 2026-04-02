@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Leticia Vitória
+# 👩🏻‍💻 Leticia Oliveira
 
 **`Desenvolvedora backEnd`**
 
