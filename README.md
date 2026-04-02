@@ -10,8 +10,12 @@ Me chamo Leticia, tenho 21 anos e sou estudante de Sistemas para Internet na UNI
     <a href="https://discord.com/users/leticiaoliveira144_54397" target="_blank">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
-    <a href="mailto:leticiavitooria144@gmail.com" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/badge/leticiavitooria144@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white">
+   <a href="mailto:leticiavitooria144@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+   <a href="https://wa.me/81983266874" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
     </a>
 </p>
 
@@ -91,6 +95,14 @@ Me chamo Leticia, tenho 21 anos e sou estudante de Sistemas para Internet na UNI
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/leticia-olivr/leticia-olivr/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
