@@ -100,7 +100,7 @@ Me chamo Leticia, tenho 21 anos e sou estudante de Sistemas para Internet na UNI
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/leticia-olivr/leticia-olivr/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lauramachadoss/lauramachadoss/output/snake.svg" alt="Snake animation" />
 
 ###
 
